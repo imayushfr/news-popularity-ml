@@ -18,5 +18,5 @@ Predicts the 5-class popularity (A-E) of Mashable news articles. Metric: Macro F
 No external data and no pretrained models were used.
 
 ## Files
-- `news-popularity-model.ipynb`: preprocessing, feature engineering, training, tuning, prediction (sections are commented).
+- `news-popularity-model.ipynb`: preprocessing, feature engineering, training, tuning, prediction.
 - `requirements.txt`: dependencies.
